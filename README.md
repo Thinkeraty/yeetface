@@ -1,7 +1,7 @@
 ## YeetFace - Javascript Video Calling App
 Check it out here: https://yeetface.herokuapp.com/  
 
-<img align="right" width="420" src="https://raw.githubusercontent.com/nguymin4/react-videocall/master/screenshots/1.png"  alt =" " style="border: solid 1px #d4d4d4" />
+<img align="right" width="420" src="https://github.com/Thinkeraty/yeetface/blob/master/screenshots/Annotation%202020-09-09%20085234.png"  alt =" " style="border: solid 1px #d4d4d4" />
   
 Video call to your friend without registering. 
 Simply send your friend your auto-generated unique ID to make the call.  
