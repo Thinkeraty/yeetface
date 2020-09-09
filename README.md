@@ -1,5 +1,5 @@
-## React-VideoCall
-Demo app: https://morning-escarpment-67980.herokuapp.com/  
+## YeetFace - Javascript Video Calling App
+Check it out here: https://yeetface.herokuapp.com/  
 
 <img align="right" width="420" src="https://raw.githubusercontent.com/nguymin4/react-videocall/master/screenshots/1.png"  alt =" " style="border: solid 1px #d4d4d4" />
   
@@ -11,29 +11,29 @@ Everytime you open a new tab, the server gives you a totally different unique ID
 
 ```
 # Install dependencies
-yarn install
+npm install
 
 # Run server
-yarn watch:server
-
-# Run webpack-dev-server
-yarn watch:client
+npm run watch:server
 ```
-
-
+And then in a new terminal window:
+````
+# Run client server
+npm run watch:client
+````
 ### Deployment
 
 **Heroku**
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nguymin4/react-videocall/tree/production)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Thinkeraty/yeetface/tree/master)
 
 **Custom**
 ```
 # Install dependencies
-yarn install
+npm install
 
 # Build front-end assets
-yarn build
+npm run build
 
 # Run server
 yarn start
